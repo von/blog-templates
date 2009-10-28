@@ -1,0 +1,13 @@
+--21:38:27--  http://www.blogger.com/html?blogID=2107761074192370511
+           => `html?blogID=2107761074192370511'
+Resolving www.blogger.com... 209.85.225.191
+Connecting to www.blogger.com|209.85.225.191|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.google.com/accounts/ServiceLogin?service=blogger&continue=https%3A%2F%2Fwww.blogger.com%2Floginz%3Fd%3Dhttp%253A%252F%252Fwww.blogger.com%252Fhtml%253FblogID%253D2107761074192370511%26a%3DADD_SERVICE_FLAG&passive=true&alinsu=0&aplinsu=0&alwf=true&hl=en&skipvpage=true&rm=false&showra=1&fpui=2&naui=8 [following]
+--21:38:27--  https://www.google.com/accounts/ServiceLogin?service=blogger&continue=https%3A%2F%2Fwww.blogger.com%2Floginz%3Fd%3Dhttp%253A%252F%252Fwww.blogger.com%252Fhtml%253FblogID%253D2107761074192370511%26a%3DADD_SERVICE_FLAG&passive=true&alinsu=0&aplinsu=0&alwf=true&hl=en&skipvpage=true&rm=false&showra=1&fpui=2&naui=8
+           => `ServiceLogin?service=blogger&continue=https:%2F%2Fwww.blogger.com%2Floginz?d=http%3A%2F%2Fwww.blogger.com%2Fhtml%3FblogID%3D2107761074192370511&a=ADD_SERVICE_FLAG&passive=true&alinsu=0&aplinsu=0&alwf=true&hl=en&skipvpage=true&rm=false&showra=1&fpui=2&naui=8'
+Resolving www.google.com... 208.69.36.231, 208.69.36.230
+Connecting to www.google.com|208.69.36.231|:443... connected.
+ERROR: Certificate verification error for www.google.com: unable to get local issuer certificate
+To connect to www.google.com insecurely, use `--no-check-certificate'.
+Unable to establish SSL connection.
